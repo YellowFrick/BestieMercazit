@@ -1,0 +1,37 @@
+﻿body {
+    background-image: url("images/Rainbow.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-size: large;
+}
+a:link, a:visited {
+    background-color: pink;
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #ffdb00;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    border-color: aqua;
+    background-color: #ffec78;
+    width: 900px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+}
